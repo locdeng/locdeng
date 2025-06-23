@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loc Dang</h1>
-<p align="center">🎓 International student in Korea | 💻 Passionate about Mobile Apps & Computer Vision</p>
+<p align="center">🎓 International student in Korea | 💻 Passionate about Software Developer & Data Analysis</p>
 
 ---
 
