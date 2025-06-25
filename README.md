@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **a Flutter app to help users track medication**
 - 🌱 I’m learning: **OpenCV, Firebase, Web Crawling, and more!**
-- 💬 Ask me about: **Flutter, Python, Firebase, OpenCV, or anything tech-related**
+- 💬 Discuss about: **Flutter, Python, Firebase, OpenCV, or anything tech-related**
 
 ---
 
